@@ -1,0 +1,19 @@
+{
+    "name": "rublex/laravel-core-gateway",
+    "description": "Core payment gateway package for shared dependencies across Laravel gateway packages",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "rublex",
+        "core",
+        "payment",
+        "gateway",
+        "laravel"
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.1"
+    }
+}
