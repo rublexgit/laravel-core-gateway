@@ -1,7 +1,7 @@
 {
     "name": "rublex/laravel-core-gateway",
     "description": "Vendor-agnostic core contracts and data objects for payment gateway integrations",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "library",
     "keywords": [
         "rublex",
